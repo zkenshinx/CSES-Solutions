@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
-
+/* Time Complexity O(n) */
+/* Space Complexity O(n) */
 using namespace std;
 
 #define DICE_FACES 6
