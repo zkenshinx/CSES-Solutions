@@ -12,13 +12,13 @@ Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 5. [Removing Digits](/Dynamic%20Programming/removing_digits.cpp)
 6. [Grid Paths](/Dynamic%20Programming/grid_paths.cpp)
 7. [Book Shop](/Dynamic%20Programming/book_shop.cpp)
-8. Array Description
+8. [Array Description](/Dynamic%20Programming/array_description.cpp)
 9. Counting Towers
 10. [Edit Distance](/Dynamic%20Programming/edit_distance.cpp)
 11. [Rectangle Cutting](/Dynamic%20Programming/rectangle_cutting.cpp)
 12. [Money Sums](/Dynamic%20Programming/money_sums.cpp)
 13. [Removal Game](/Dynamic%20Programming/removal_game.cpp)
-14. Two Sets II
+14. [Two Sets II](/Dynamic%20Programming/two_sets_II.cpp)
 15. Increasing Subsequence
 16. Projects
 17. Elevator Rides
