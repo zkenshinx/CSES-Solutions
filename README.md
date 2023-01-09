@@ -31,3 +31,7 @@ Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 3. [Building Roads](/Graph%20Algorithms/building_roads.cpp)
 4. [Message Route](/Graph%20Algorithms/message_route.cpp)
 5. [Building Teams](/Graph%20Algorithms/building_teams.cpp)
+
+## Range Queries
+1. [Static Range Sum Queries](/Range%20Queries/static_range_sum_queries.cpp)
+1. [Static Range Minimum Queries](/Range%20Queries/static_range_minimum_queries.cpp)
