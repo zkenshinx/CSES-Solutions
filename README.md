@@ -34,4 +34,7 @@ Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 
 ## Range Queries
 1. [Static Range Sum Queries](/Range%20Queries/static_range_sum_queries.cpp)
-1. [Static Range Minimum Queries](/Range%20Queries/static_range_minimum_queries.cpp)
+2. [Static Range Minimum Queries](/Range%20Queries/static_range_minimum_queries.cpp)
+3. [Dynamic Range Sum Queries](/Range%20Queries/dynamic_range_sum_queries.cpp)
+4. [Dynamic Range Minimum Queries](/Range%20Queries/dynamic_range_sum_queries.cpp)
+5. [Range xor Queries](/Range%20Queries/range_xor__queries.cpp)
