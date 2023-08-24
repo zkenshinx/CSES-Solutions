@@ -1,6 +1,9 @@
 # CSES-Solutions
 Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 
+## Introductory Problems
+1. [Weird Algorithm](/Introductory%20Problems/weird_algorithm.cpp)
+
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/distinct_numbers.cpp)
 
