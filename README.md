@@ -4,6 +4,8 @@ Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 ## Introductory Problems
 1. [Weird Algorithm](/Introductory%20Problems/weird_algorithm.cpp)
 2. [Missing Number](/Introductory%20Problems/missing_number.cpp)
+3. [Repetitions](/Introductory%20Problems/repetitions.cpp)
+4. [Increasing Array](/Introductory%20Problems/increasing_array.cpp)
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/distinct_numbers.cpp)
