@@ -10,6 +10,7 @@ Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/distinct_numbers.cpp)
+2. [Apartments](/Sorting%20and%20Searching/apartments.cpp)
 
 ## Dynamic Programming
 1. [Dice Combinations](/Dynamic%20Programming/dice_combination.cpp)
