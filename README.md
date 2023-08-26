@@ -10,6 +10,7 @@ Current status: 35 / 300.
 4. [Increasing Array](/Introductory%20Problems/increasing_array.cpp)
 5. [Permutations](/Introductory%20Problems/permutations.cpp)
 8. [Two Sets](/Introductory%20Problems/two_sets.cpp)
+9. [Bit Strings](/Introductory%20Problems/bit_strings.cpp)
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/distinct_numbers.cpp)
