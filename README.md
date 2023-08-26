@@ -1,6 +1,8 @@
 # CSES-Solutions
 Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 
+Current status: 34 / 300.
+
 ## Introductory Problems
 1. [Weird Algorithm](/Introductory%20Problems/weird_algorithm.cpp)
 2. [Missing Number](/Introductory%20Problems/missing_number.cpp)
