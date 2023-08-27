@@ -1,7 +1,7 @@
 # CSES-Solutions
 Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 
-Current status: 39 / 300.
+Current status: 40 / 300.
 
 ## Introductory Problems
 1. [Weird Algorithm](/Introductory%20Problems/weird_algorithm.cpp)
@@ -13,6 +13,7 @@ Current status: 39 / 300.
 9. [Bit Strings](/Introductory%20Problems/bit_strings.cpp)
 10. [Trailing Zeros](/Introductory%20Problems/trailing_zeros.cpp)
 11. [Coin Piles](/Introductory%20Problems/coin_piles.cpp)
+12. [Palindrome Reorder](/Introductory%20Problems/palindrome_reorder.cpp)
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/distinct_numbers.cpp)
