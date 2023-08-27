@@ -16,6 +16,7 @@ Current status: 42 / 300.
 12. [Palindrome Reorder](/Introductory%20Problems/palindrome_reorder.cpp)
 13. [Gray Code](/Introductory%20Problems/gray_code.cpp)
 14. [Tower Of Hanoi](/Introductory%20Problems/tower_of_hanoi.cpp)
+15. [Creating Strings](/Introductory%20Problems/creating_strings.cpp)
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/distinct_numbers.cpp)
