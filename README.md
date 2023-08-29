@@ -18,6 +18,7 @@ Current status: 43 / 300.
 14. [Tower Of Hanoi](/Introductory%20Problems/tower_of_hanoi.cpp)
 15. [Creating Strings](/Introductory%20Problems/creating_strings.cpp)
 16. [Apple Division](/Introductory%20Problems/apple_division.cpp)
+17. [Chessboard and Queens](/Introductory%20Problems/chessboard_and_queens.cpp)
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/distinct_numbers.cpp)
