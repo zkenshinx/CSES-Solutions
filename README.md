@@ -24,7 +24,8 @@ Current status: 46 / 300.
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/distinct_numbers.cpp)
 2. [Apartments](/Sorting%20and%20Searching/apartments.cpp)
-5. [Restaurant customers](/Sorting%20and%20Searching/restaurant_customers.cpp)
+5. [Restaurant Customers](/Sorting%20and%20Searching/restaurant_customers.cpp)
+6. [Movie Festival](/Sorting%20and%20Searching/movie_festival.cpp)
 
 ## Dynamic Programming
 1. [Dice Combinations](/Dynamic%20Programming/dice_combination.cpp)
