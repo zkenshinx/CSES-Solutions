@@ -26,6 +26,7 @@ Current status: 46 / 300.
 2. [Apartments](/Sorting%20and%20Searching/apartments.cpp)
 5. [Restaurant Customers](/Sorting%20and%20Searching/restaurant_customers.cpp)
 6. [Movie Festival](/Sorting%20and%20Searching/movie_festival.cpp)
+7. [Sum Of Two Values](/Sorting%20and%20Searching/sum_of_two_values.cpp)
 
 ## Dynamic Programming
 1. [Dice Combinations](/Dynamic%20Programming/dice_combination.cpp)
