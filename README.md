@@ -1,7 +1,7 @@
 # CSES-Solutions
 Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 
-Current status: 45 / 300.
+Current status: 46 / 300.
 
 ## Introductory Problems
 1. [Weird Algorithm](/Introductory%20Problems/weird_algorithm.cpp)
@@ -24,6 +24,7 @@ Current status: 45 / 300.
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/distinct_numbers.cpp)
 2. [Apartments](/Sorting%20and%20Searching/apartments.cpp)
+5. [Restaurant customers](/Sorting%20and%20Searching/restaurant_customers.cpp)
 
 ## Dynamic Programming
 1. [Dice Combinations](/Dynamic%20Programming/dice_combination.cpp)
