@@ -27,6 +27,7 @@ Current status: 46 / 300.
 5. [Restaurant Customers](/Sorting%20and%20Searching/restaurant_customers.cpp)
 6. [Movie Festival](/Sorting%20and%20Searching/movie_festival.cpp)
 7. [Sum Of Two Values](/Sorting%20and%20Searching/sum_of_two_values.cpp)
+8. [Maximum Subarray Sum](/Sorting%20and%20Searching/maximum_subarray_sum.cpp)
 
 ## Dynamic Programming
 1. [Dice Combinations](/Dynamic%20Programming/dice_combination.cpp)
