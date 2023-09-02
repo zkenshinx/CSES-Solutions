@@ -28,7 +28,8 @@ Current status: 48 / 300.
 6. [Movie Festival](/Sorting%20and%20Searching/movie_festival.cpp)
 7. [Sum Of Two Values](/Sorting%20and%20Searching/sum_of_two_values.cpp)
 8. [Maximum Subarray Sum](/Sorting%20and%20Searching/maximum_subarray_sum.cpp)
-8. [13](/Sorting%20and%20Searching/playlist.cpp)
+13. [Playlist](/Sorting%20and%20Searching/playlist.cpp)
+27. [Subarray Sums I](/Sorting%20and%20Searching/subarray_sums_I.cpp)
 
 ## Dynamic Programming
 1. [Dice Combinations](/Dynamic%20Programming/dice_combination.cpp)
