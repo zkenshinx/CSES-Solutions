@@ -1,7 +1,7 @@
 # CSES-Solutions
 Solutions to problems of [CSES](https://cses.fi/problemset/list/)
 
-Current status: 48 / 300.
+Current status: 49 / 300.
 
 ## Introductory Problems
 1. [Weird Algorithm](/Introductory%20Problems/weird_algorithm.cpp)
@@ -30,6 +30,7 @@ Current status: 48 / 300.
 8. [Maximum Subarray Sum](/Sorting%20and%20Searching/maximum_subarray_sum.cpp)
 13. [Playlist](/Sorting%20and%20Searching/playlist.cpp)
 27. [Subarray Sums I](/Sorting%20and%20Searching/subarray_sums_I.cpp)
+28. [Subarray Sums II](/Sorting%20and%20Searching/subarray_sums_II.cpp)
 
 ## Dynamic Programming
 1. [Dice Combinations](/Dynamic%20Programming/dice_combination.cpp)
